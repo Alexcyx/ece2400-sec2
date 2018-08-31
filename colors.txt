@@ -1,0 +1,6 @@
+ red
+ orane
+ yellow
+ blue
+ green
+ purple
