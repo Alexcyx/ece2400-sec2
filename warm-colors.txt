@@ -1,3 +1,6 @@
-red
-orane
-yellow
+#ifndef WARM_COLORS_TXT
+#define WARM_COLORS_TXT
+ red
+ orane
+ yellow
+#endif
